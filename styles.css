@@ -1,0 +1,55 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f8ff; /* Pastel blue background */
+}
+
+header {
+    background: #ffb3d9; /* Pastel pink header background */
+    color: #333; /* Dark gray text color */
+    padding: 20px;
+    text-align: center;
+}
+
+h1 {
+    margin: 0;
+    font-family: 'Georgia', serif; /* Title font */
+}
+
+h2 {
+    color: #4caf50; /* Pastel green for section titles */
+}
+
+main {
+    padding: 20px;
+}
+
+section {
+    margin-bottom: 20px;
+    background: #ffffff; /* White section background */
+    padding: 15px;
+    border-radius: 5px; /* Rounded corners */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Light shadow */
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background: #ffb3d9; /* Pastel pink footer background */
+    color: #333; /* Dark gray text */
+}
+
+button {
+    background: #4caf50; /* Pastel green button color */
+    color: white; /* Button text color */
+    border: none; /* Remove default border */
+    padding: 10px 20px; /* Button padding */
+    border-radius: 5px; /* Rounded corners */
+    cursor: pointer; /* Pointer cursor on hover */
+}
+
+button:hover {
+    background: #388e3c; /* Darker green on hover */
+}
+
